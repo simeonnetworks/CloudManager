@@ -1,0 +1,31 @@
+
+# Directory for creating releases
+/release/
+
+# Editor files
+phpmyadmin.wpj
+.projectOptions
+.vimrc
+.project
+.settings
+.buildpath
+.cache
+.idea
+.netbeans
+*.sw[op]
+/nbproject/
+/.pydevproject
+*.save
+.DS_Store
+*.xcworkspace
+
+# Server files
+web.config
+cache.properties
+
+# Testing Files
+phpunit.xml
+/test/bootstrap.php
+/build/
+/js/line_counts.php
+/apidoc/
